@@ -6,3 +6,4 @@ The credentials to access this file are admin/admin
 
 ## The Example file
 It's a fictious story about 
+![Home](CleanShot 2026-06-03 at 14.15.24@2x.png)
