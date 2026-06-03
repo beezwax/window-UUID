@@ -4,7 +4,7 @@ This example explores what becomes possible with Get ( WindowUUID ). It enables 
 ## Access
 The credentials to access this file are 
 
-account: admin
+Account: admin
 Password: admin
 
 ## The Example file
