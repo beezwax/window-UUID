@@ -12,4 +12,4 @@ Then when you are ready you can transfer those IDs to the server to find them an
 
 Bonus Points with what this enables is the ability to continually have access to those window variables - independeant of layout context. Thus giving us some new super powers.
 
-![Example of Selected Records](selected_row.png)
+![Example of Selected Records](selected_rows.png)
