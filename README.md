@@ -11,6 +11,6 @@ Small example that allows you to open multiple windows and Shift-Click or Cmd-Cl
 
 Then when you are ready you can transfer those IDs to the server to find them and process them.
 
-Bonus Points with what this enables is the ability to continually have access to those window variables - independeant of layout context. Thus giving us some new super powers.
+Bonus Points: This now gives us the ability to continually have access to those window variables - independeant of layout context. Thus giving us some new super powers. Enjoy
 
 ![Example of Selected Records](./images/selected_rows.png)
