@@ -3,3 +3,6 @@ This example explores what becomes possible with Get ( WindowUUID ). It enables 
 
 ## Access
 The credentials to access this file are admin/admin
+
+## The Example file
+It's a fictious story about 
