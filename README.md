@@ -2,10 +2,10 @@
 This example explores what becomes possible with Get ( WindowUUID ). It enables window variables, something we have done in the past but this makes it easy and elegant. Understanding how to create, update and delete them is what this example illustrates.
 
 ## Access
-The credentials to access this file are 
+The credentials to access this file are. Note the account name is "admin" but the password is empty (no password). You will be asked to set a password when you open the file.
 
 Account: admin
-Password: admin
+Password: 
 
 ## The Example file
 Small example that allows you to open multiple windows and Shift-Click or Cmd-Click to select or deselect multiple records. What we do is store the Record IDs into a child attribute of the Window UUID this way we can have the UI inform the user of which records have been selected. Thus maintaining that list of selected records independanty in each window.
